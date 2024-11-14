@@ -1,0 +1,49 @@
+IMU Data Statistics
+==================
+
+Timing Information:
+Total duration: 60.07 seconds
+Total samples: 577
+Average sampling rate: 9.61 Hz
+
+Signal Statistics:
+
+GYROSCOPE DATA:
+
+X-Gyro:
+  Mean: -2459.38
+  Std Dev: 4153.33
+  Min: -32768.00
+  Max: 31860.00
+
+Y-Gyro:
+  Mean: -4451.09
+  Std Dev: 11283.21
+  Min: -22852.00
+  Max: 32767.00
+
+Z-Gyro:
+  Mean: -7401.10
+  Std Dev: 8339.35
+  Min: -32768.00
+  Max: 32767.00
+
+ACCELEROMETER DATA:
+
+X-Accel:
+  Mean: 53.35
+  Std Dev: 8904.50
+  Min: -32768.00
+  Max: 32767.00
+
+Y-Accel:
+  Mean: 26.53
+  Std Dev: 6132.76
+  Min: -32768.00
+  Max: 32767.00
+
+Z-Accel:
+  Mean: -1.20
+  Std Dev: 6492.18
+  Min: -32768.00
+  Max: 32767.00
